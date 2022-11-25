@@ -1,16 +1,10 @@
-# fitness_ui
+# Fitness UI
+## A new Flutter project for Fitness UI app.
+<p align="center">
+  <img src="https://github.com/decodevM/fitness_ui/blob/main/assets/screenshots/start.png" width="200" title="Starting Screen">
+  <img src="https://github.com/decodevM/fitness_ui/blob/main/assets/screenshots/dashboard.png" width="200" title="Dashboard">
+</p>
 
-A new Flutter project.
+## Full Tutorial
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+[![Flutter Speed Code | Fitness UI](https://img.youtube.com/vi/60c_jFv2GLQ/0.jpg)](https://www.youtube.com/watch?v=60c_jFv2GLQ)
