@@ -1,6 +1,6 @@
 # Fitness UI
 ## A new Flutter project for Fitness UI app.
-<p align="center">
+<p align="left">
   <img src="https://github.com/decodevM/fitness_ui/blob/main/assets/screenshots/start.png" width="200" title="Starting Screen">
   <img src="https://github.com/decodevM/fitness_ui/blob/main/assets/screenshots/dashboard.png" width="200" title="Dashboard">
 </p>
